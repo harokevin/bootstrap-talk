@@ -43,3 +43,11 @@ Slides for a beginner friendly bootstrap demo
 </html>
 ```
 `https://getbootstrap.com/docs/4.0/getting-started/introduction/`
+
+## slides
+Install reveal-md and launch the presentation
+```
+npm install -g reveal-md
+reveal-md slides.md
+```
+- You might need to install node package manager(npm)
