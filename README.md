@@ -51,3 +51,9 @@ npm install -g reveal-md
 reveal-md slides.md
 ```
 - You might need to install node package manager(npm)
+
+## running php project locally on mac
+```
+cd example-project
+php -S localhost:8000 
+```
