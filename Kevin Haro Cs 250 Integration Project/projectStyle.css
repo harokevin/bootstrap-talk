@@ -1,0 +1,108 @@
+body{
+	background-color:#FFB473;
+	font-family: calibri;
+}
+
+#suggestionError
+{
+	width:70%;
+	margin-left: 122px;
+	background-color: #F08080;
+	text-align: center;
+}
+
+#suggestionThanks
+{
+	width:70%;
+	margin-left: 122px;
+	background-color: white;
+	text-align: center;
+}
+
+#userEquationInput{
+	width:137%;
+	margin-left: -60px;
+}
+
+#error
+{
+	width:70%;
+	margin-left: 375px;
+	background-color: #F08080;
+	text-align: center;
+}
+
+.eq{
+	width:25%;
+}
+
+a{
+	text-decoration: none;
+	color: #006064;
+}
+#navBar{
+	float:left;
+	border: #006064 10px solid;
+	padding-right: 40px;
+	padding-bottom: 54%;
+	margin-right: 50px;
+}
+
+#pageContent{
+	margin-left: 50px;
+}
+
+form{
+	margin-right:auto;
+	margin-left:auto;
+	width:50%;
+}
+
+textarea{
+	margin-right:auto;
+	margin-left:auto;
+	width: 70%;
+}
+
+fieldset{
+	border: #BF9030 3px solid;
+}
+
+table,th,td,tr{
+	border-collapse:collapse;
+	border: #BF9030 3px solid;
+	border-radius: 25px;
+	padding:2px;
+	margin-right: auto;
+	margin-left:auto;
+}
+th{
+	color:#006064;
+}
+
+table{
+	margin-bottom:12px;
+	width:70%;
+}
+
+h2,h1,caption{
+	color:white;
+	text-align:center;
+	font-weight: bold;
+}
+
+li{
+	border-left: #BF9030 20px solid;
+	padding-left: 10px;
+	padding:4px;
+	margin-bottom: 5px;
+	list-style-type:none;
+	background-color:white;
+}
+
+#brief{
+	width:90%;
+	margin-right: auto;
+	margin-left:auto;
+	height:54%;
+}
