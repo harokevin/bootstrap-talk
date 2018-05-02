@@ -133,7 +133,7 @@ Honor Code: I pledge that this code represents my own work: Kevin Haro
 		  </div>
 		</nav>
 
-		<div id="pageContent">
+		<div id="pageContent" class="container">
 
 			<h1 class="my-4 text-center">PHYSICS EQUATIONS</h1>
 
@@ -194,7 +194,7 @@ Honor Code: I pledge that this code represents my own work: Kevin Haro
 
 
 				<table id="userEquationTable" class="table">
-					<caption>User Equations:</caption>
+					<caption>User Equations</caption>
 					<thead class="thead-dark">
 						<tr>	<th>User:</th>	<th>Equation:</th>	</tr>
 					</thead>
@@ -221,33 +221,13 @@ Honor Code: I pledge that this code represents my own work: Kevin Haro
 					<?php echo	getUserEquations("userequations"); ?>
 				</table>
 
-
-
-				<div id="userEqauationInput">
-					<!-- take in suggestion -->
-					<!-- put suggestion into database -->
+				<div class="px-3">
 					<form id="overallForm" action="" method="post">
-						<fieldset id="userEquationInput">
-
-							<!-- <textarea rows="5" cols="100" name="userEquation"> Enter Your Equation Here..</textarea> -->
-							<div class="input-group mb-3">
-								<div class="input-group-prepend">
-									<span class="input-group-text">Enter Your Equation Here..</span>
-								</div>
-								<textarea class="form-control" name="userEquation" aria-label="With textarea"></textarea>
-							</div>
-							<p>
-								<!-- <label>Please Enter Your Name:</label> -->
-								<input id="userName" class="form-control" aria-label="Please Enter Your Name:" name="userName" size="20" type="text"/>
-							</p>
-
-							<p>
-								<input value="Catalog Equation" type="submit" name="submitButton"/>
-							</p>
-
-						</fieldset>
+							<textarea class="form-control mb-3" name="userEquation" placeholder="Enter Your Equation Here.." aria-label="With textarea"></textarea>
+							<input type="text" class="form-control mb-3" placeholder="Name" aria-label="Name" name="userName" aria-describedby="basic-addon1">
+							<input class="btn btn-primary" value="Catalog Equation" type="submit" name="submitButton">
 					</form>
-				</div>
+				<div>
 
 		</div>
 
