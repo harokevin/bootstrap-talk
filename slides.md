@@ -83,10 +83,47 @@ TODO: show old physics website
 - Might not work without JS
 ---
 
-
-## Bootstrap Cheat Sheets
+<!-- ## Bootstrap Cheat Sheets
 - https://www.cheatography.com/masonjo/cheat-sheets/bootstrap/
+--- -->
+
+## Components
+- [buttons](https://getbootstrap.com/docs/4.1/components/buttons/)
+- [input-group](https://getbootstrap.com/docs/4.1/components/input-group/)
+- [dropdowns](https://getbootstrap.com/docs/4.1/components/dropdowns/)
+- [spacing](https://getbootstrap.com/docs/4.0/utilities/spacing/)
+- [jumbotron](https://getbootstrap.com/docs/4.1/components/jumbotron/)
+---
+
+## Containers and layout
+https://getbootstrap.com/docs/4.1/layout/overview/
+---
+
+## The grid system
+- [The grid](https://getbootstrap.com/docs/4.1/layout/grid/)
+- Row example for equal space
+- Row example using 12 cell column width classes
+- [Mobile first](https://getbootstrap.com/docs/4.1/layout/grid/#grid-options)
+- Using more that 12 in a row makes the columns wrap
+- Nesting rows in rows
+---
+
+## Content
+- [typography](https://getbootstrap.com/docs/4.1/content/typography/)
+- [headings](https://getbootstrap.com/docs/4.1/content/typography/#headings)
+- [lists](https://getbootstrap.com/docs/4.1/content/typography/#lists)
+- [tables](https://getbootstrap.com/docs/4.1/content/tables/)
+---
+
+## Utility Classes
+- [spacing](https://getbootstrap.com/docs/4.1/utilities/spacing/#how-it-works)
+- [colors](https://getbootstrap.com/docs/4.1/utilities/colors/)
+- [borders](https://getbootstrap.com/docs/4.1/utilities/borders/)
+- [flex](https://getbootstrap.com/docs/4.1/utilities/flex/)
 ---
 
 ## Where does bootstrap go in code? LETS CODE!
+---
+
+## The End
 ---
