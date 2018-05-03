@@ -3,12 +3,10 @@
 `Harokevin0@gmail.com`
 ---
 
-<!-- ## Why is the 4 in bootstrap 4 important?
-- Is there a bootstrap 1?
-- 2 exists... right?
-- 3 EXISTS!
-- 4 IS BEHTA!
---- -->
+## What is bootstrap?
+- front-end component library
+- A free toolbox of useful components
+---
 
 ## Bootstrap History
 - Twitter Blueprint
@@ -23,17 +21,20 @@
 ---
 
 ## Bootstrap 2
+- Jan 31 2012
 - 12 column grid layout
 - Glyphicons
 - New and updated components
 ---
 
 ## Bootstrap 3
+- Aug 19 2013
 - Flat design
 - Mobile first approach
 ---
 
 ## Bootstrap 4
+- January 18 2018
 - adds SASS(from LESS)
 - adds flexbox
 - improves print styles
@@ -41,19 +42,9 @@
 - provides more control over the flex box
 ---
 
-## What is bootstrap?
-- front-end component library
-- A free toolbox of useful components
-<!--
-TODO: speaker notes FTW!
-TODO: show what bootstrap is capable of
-TODO: show old physics website
- -->
----
-
 ## What is bootstrap capable of?
 - [Simple Examples](https://getbootstrap.com/docs/4.1/examples/)
-- [Production Examples](http://blog.creative-tim.com/web-design/15-gorgeous-sites-built-twitter-bootstrap/)
+- [Production Examples](http://expo.getbootstrap.com/)
 ---
 
 ## Who is bootstrap for?
@@ -95,11 +86,8 @@ TODO: show old physics website
 - [jumbotron](https://getbootstrap.com/docs/4.1/components/jumbotron/)
 ---
 
-## Containers and layout
-https://getbootstrap.com/docs/4.1/layout/overview/
----
-
 ## The grid system
+- [Container](https://getbootstrap.com/docs/4.1/layout/overview/)
 - [The grid](https://getbootstrap.com/docs/4.1/layout/grid/)
 - Row example for equal space
 - Row example using 12 cell column width classes
